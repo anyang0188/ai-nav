@@ -80,6 +80,7 @@ const navData = [
       { name: "Vercel", icon: "▲", desc: "前端部署平台 🪜", url: "https://vercel.com", tag: "免费" },
       { name: "Cloudflare", icon: "☁️", desc: "CDN/边缘计算平台 🪜", url: "https://www.cloudflare.com", tag: "" },
       { name: "CodePen", icon: "🖊️", desc: "在线前端代码编辑 🪜", url: "https://codepen.io", tag: "" },
+      { name: "agent-qa", icon: "🧪", desc: "网页与移动端 AI 测试：memidex 持久记忆、经验证的自我改进、MCP 与可回看证据", url: "https://vostride.com", tag: "模型费用另计" },
     ]
   },
 ];
